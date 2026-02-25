@@ -36,7 +36,7 @@ Luna is more than a chatbot; she's an expanding personal assistant OS and ecosys
 | **[Luna_chat_v7](https://github.com/Bitwarelabscom/Luna_chat_v7)** | AI OS with Council Architecture, autonomous agents, graph-based memory consolidation, and system-wide integration. Privacy-first local/cloud deployment. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **[NeuralSleep](https://github.com/Bitwarelabscom/neuralsleep)** | Biological memory consolidation for artificial consciousness. Research into how AI systems should sleep, dream, and consolidate. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[MemoryCore](https://github.com/Bitwarelabscom/memorycore)** | Production memory consolidation architecture for the Luna AI learning platform. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **[Study with Luna](https://github.com/Bitwarelabscom/luna-app)** | AI-powered Chinese language learning with spaced repetition, gamification, and crypto payments. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Study with Luna** | AI-powered Chinese language learning with spaced repetition, gamification, and crypto payments. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **[UltraAPI](https://github.com/Bitwarelabscom/ultraAPI)** | MCP system monitoring and administration module for Luna. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 
 ---
